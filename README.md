@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Master's of Software Engineering**
 
-- 💬 Ask me about **Python, TypeScript, Machine Learning, and Full-Stack Development**
+- 💬 Ask me about **Python, JavaScript, Machine Learning, and Full-Stack Development**
 
 - 📫 How to reach me **howie1113@gmail.com**
 
