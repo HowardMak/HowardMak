@@ -154,5 +154,5 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=435&lines= Let's+build+something+amazing!;Open+to+collaboration+and+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing!;" alt="Typing SVG" />
 </div>
