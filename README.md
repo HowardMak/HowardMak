@@ -81,7 +81,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Commercial Projects
 
 ### Wangarr Creations | Full-Stack Web Application
 
