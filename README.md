@@ -149,6 +149,9 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
   <a href="https://linkedin.com/in/howard-mai-61808625a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://drive.google.com/file/d/1U4rk5L4R3UYYfWQ6KvwOtVSUA60as_-V/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
 </div>
 
 ---
