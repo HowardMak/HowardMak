@@ -97,7 +97,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 *Sep 2025 - Present*
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/78_zoso2u.png" alt="Wangarr Creations Website" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/78_zoso2u.png" alt="Wangarr Creations Website" style="width:80vw;height:auto;border-radius:16px;">
 
 **An E-commerce website introducing aboriginal culture and selling unique artworks and products**
 
@@ -109,7 +109,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 *Apr 2025 - Present*
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/9_uojlj9.png" alt="Wangarr Creations App" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/9_uojlj9.png" alt="Wangarr Creations App" style="width:80vw;height:auto;border-radius:16px;">
 
 **A cross-platform mobile app introducing interactive aboriginal artworks, music, poem and selling unique artworks and products**
 
@@ -123,7 +123,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 *Jun 2025 - Aug 2025*
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/84_dw4lhl.png" alt="YSMS Logo" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/84_dw4lhl.png" alt="YSMS Logo" style="width:80vw;height:auto;border-radius:16px;">
 
 **An online story sharing and mental support platform for teenagers**
 
@@ -135,7 +135,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 *Feb 2025 - Mar 2025*
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/UniqueNTGiftBaskets_liyyzi.png" alt="YSMS Logo" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/UniqueNTGiftBaskets_liyyzi.png" alt="YSMS Logo" style="width:80vw;height:auto;border-radius:16px;">
 
 **An E-Commerce website selling unique gift baskets limited in NT**
 
@@ -147,7 +147,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ### In Real Life Social Connect
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133695/24_xaa9tu.png" alt="In Real Life Social Connect" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133695/24_xaa9tu.png" alt="In Real Life Social Connect" style="width:80vw;height:auto;border-radius:16px;">
 
 **Darwin’s home for authentic matchmaking, confidence, communication and dating coaching & support, and community events.**
 
@@ -157,7 +157,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ### Civiltech Solutions
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/22_defujv.png" alt="Civiltech Solutions" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/22_defujv.png" alt="Civiltech Solutions" style="width:80vw;height:auto;border-radius:16px;">
 
 **A civil engineering and project delivery consultancy dedicated to building long term sustainable roadways.**
 
@@ -167,7 +167,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ### Dukes Cafe and Eatery
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133697/23_wcrnji.png" alt="Dukes Cafe and Eatery" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133697/23_wcrnji.png" alt="Dukes Cafe and Eatery" style="width:80vw;height:auto;border-radius:16px;">
 
 **A cornerstone of the Darwin community.**
 
@@ -177,7 +177,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ### Kindness Shake
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/53_jgyqzf.png" alt="Kindness Shake" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/53_jgyqzf.png" alt="Kindness Shake" style="width:80vw;height:auto;border-radius:16px;">
 
 **A community and student-led initiative, launched during the outbreak of the COVID-19 pandemic. It supports and focuses on international students, migrants, refugees and temporary visa holders who are experiencing financial difficulties.**
 
@@ -187,7 +187,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ### Outback Engraver
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/OutbackEngraver_zuxokv.png" alt="Kindness Shake" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/OutbackEngraver_zuxokv.png" alt="Kindness Shake" style="width:80vw;height:auto;border-radius:16px;">
 
 **A local Trusted Source for NT businesses looking to deliver the highest standards of professional laser branding and engraving to their clients.**
 
@@ -197,11 +197,51 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ### 101 NT
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/101NT_nfgjjw.png" alt="101 NT" style="width:auto;height:256px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/101NT_nfgjjw.png" alt="101 NT" style="width:80vw;height:auto;border-radius:16px;">
 
 **A Darwin-based supplier and installer of premium roller doors and shutters, proudly serving Northern Territory homes and businesses.**
 
 <a href="https://101nt.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### OJ Fit
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762151982/OJFit_okxftn.png" alt="OJ Fit" style="width:80vw;height:auto;border-radius:16px;">
+
+**A local Darwin community for group fitness, focusing on creating a supportive, fun, and results-driven environment for all ages and fitness levels.**
+
+<a href="https://www.ojfit.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Polar AC Cleans
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762152595/PolarACCleans_vulwkm.png" alt="Polar AC Cleans" style="width:80vw;height:auto;border-radius:16px;">
+
+**Specialists in split-system air-conditioning — from cleaning and maintenance to full repairs, replacements, and new installations across Darwin.**
+
+<a href="https://www.polaracdarwin.net/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Dalabon Aboriginal Cultural Experience
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762153296/Dalabon_adccor.png" alt="Dalabon Aboriginal Cultural Experience" style="width:80vw;height:auto;border-radius:16px;">
+
+**Dalabon Aboriginal Cultural Experience is devoted to sharing the richness of Aboriginal culture through unique, immersive experiences.**
+
+<a href="https://www.dalabon.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Sachi's Handcraft Oasis
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762153661/Sachi_qtcjdh.png" alt="Sachi's Handcraft Oasis" style="width:80vw;height:auto;border-radius:16px;">
+
+**Inspired by her family’s history as atomic bombing survivors in Nagasaki, Sachi uses creativity to promote healing, cultural understanding, and historical awareness.**
+
+<a href="https://darwinsachi.com.au/" style="font-weight:bold;">👉 Click to visit</a>
 
 ---
 
