@@ -205,6 +205,16 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 ---
 
+## 🎓 What My Clients Say
+
+<div>
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762137453/Screenshot_2025-11-03_at_12.05.52_o8gyzy.png">
+<hr style="border-style: dashed">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762137452/Screenshot_2025-11-03_at_12.05.34_bcqrb5.png">
+</div>
+
+---
+
 ## 🎓 Education
 
 - **Master of Software Engineering** - Charles Darwin University, Australia *(Mar 2024 - Nov 2025)*
