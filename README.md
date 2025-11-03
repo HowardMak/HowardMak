@@ -219,19 +219,19 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
   <a href="mailto:sde.howard.mai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/gmail_d7qyhb.png" alt="gmail" style="width:auto;height:64px;">
+  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/gmail_d7qyhb.png" alt="gmail" style="width:auto;height:128px;">
   </div>
   <div style="width: 180px; display: flex; align-items: center; justify-content: space-between; gap: 8px">
   <a href="https://linkedin.com/in/howard-mai-61808625a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/linkedin_se7wou.png" alt="linkedin" style="width:auto;height:64px;">
+  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/linkedin_se7wou.png" alt="linkedin" style="width:auto;height:128px;">
   </div>
   <div style="width: 180px; display: flex; align-items: center; justify-content: space-between; gap: 8px">
   <a href="https://drive.google.com/file/d/1U4rk5L4R3UYYfWQ6KvwOtVSUA60as_-V/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
-  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/google-drive-resume_k860zb.png" alt="Kindness Shake" style="width:auto;height:64px;">
+  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/google-drive-resume_k860zb.png" alt="Kindness Shake" style="width:auto;height:128px;">
   </div>
 </div>
 
