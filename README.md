@@ -1,8 +1,17 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E3A8A&center=true&vCenter=true&width=435&lines=Howard+Mai;Full+Stack+Software+Engineer;Data+Analyst" alt="Typing SVG" />
-</div>
+</div> -->
 
 <div align="center">
+  <h1>Howard Mai</h1>
+  <p>
+    <span style="display:inline-block; background-color:#1E3A8A; color:#fff; padding:4px 12px; border-radius:12px; margin-right:8px; font-size:0.95em;">
+      Full-Stack Engineer
+    </span>
+    <span style="display:inline-block; background-color:#1E3A8A; color:#fff; padding:4px 12px; border-radius:12px; font-size:0.95em;">
+      Data Analyst
+    </span>
+  </p>
   <img src="https://komarev.com/ghpvc/?username=howardmai&label=Profile%20views&color=1e3a8a&style=flat" alt="howardmai" />
 </div>
 
@@ -81,13 +90,13 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ---
 
-## 📌 Featured Commercial Projects
+## 💻 Featured Commercial Development Projects
 
 ### Wangarr Creations | Full-Stack Web Application
 
 *Sep 2025 - Nov 2025*
 
-<img src="https://play-lh.googleusercontent.com/Zb3iL5mFPfAcNtHNpqce2pmDLUL20E6pij6-E07fZnpkFLRux6-nYVl6TDTXgkqLW7zwzSCuYPUhQkyPBk8B=w240-h480-rw" alt="Wangarr Creations Logo" style="width:128px;height:128px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/78_zoso2u.png" alt="Wangarr Creations Website" style="width:auto;height:256px;border-radius:16px;">
 
 **An E-commerce website introducing aboriginal culture and selling unique artworks and products**
 
@@ -99,7 +108,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 *Apr 2025 - Sep 2025*
 
-<img src="https://play-lh.googleusercontent.com/Zb3iL5mFPfAcNtHNpqce2pmDLUL20E6pij6-E07fZnpkFLRux6-nYVl6TDTXgkqLW7zwzSCuYPUhQkyPBk8B=w240-h480-rw" alt="Wangarr Creations Logo" style="width:128px;height:128px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/9_uojlj9.png" alt="Wangarr Creations App" style="width:auto;height:256px;border-radius:16px;">
 
 **A cross-platform mobile app introducing interactive aboriginal artworks, music, poem and selling unique artworks and products**
 
@@ -113,7 +122,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 *Jul 2025 - Aug 2025*
 
-<img src="https://yourstorymystory.org.au/assets/favicon-1FxkkmHO.svg" alt="YSMS Logo" style="width:128px;height:128px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/84_dw4lhl.png" alt="YSMS Logo" style="width:auto;height:256px;border-radius:16px;">
 
 **An online story sharing and mental support platform for teenagers**
 
@@ -125,11 +134,75 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 *Feb 2025 - Apr 2025*
 
-<img src="https://scontent.fadl7-1.fna.fbcdn.net/v/t39.30808-1/495160301_122093778674873162_7091779482352936453_n.jpg?stp=c140.0.1768.1768a_dst-jpg_s480x480_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=o0Ki4I_7S4kQ7kNvwFEQZzT&_nc_oc=Adk1f-g6zX7K7iMoxArpldU6EFcZQ6D_54MLX0frFdAhj_WQSjLtkfGyXALjRSHtxrI&_nc_zt=24&_nc_ht=scontent.fadl7-1.fna&_nc_gid=BOhJ9z-8vP7g8-i5vNtiLw&oh=00_AferInok7_Fqht8kKwZGQcbQCwz--p9_Nfrb4uqW3wgM8Q&oe=69053C93" alt="YSMS Logo" style="width:128px;height:128px;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/UniqueNTGiftBaskets_liyyzi.png" alt="YSMS Logo" style="width:auto;height:256px;border-radius:16px;">
 
 **An E-Commerce website selling unique gift baskets limited in NT**
 
 <a href="https://uniquentgiftbaskets.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+---
+
+## 🎨 Featured Commercial Design Projects
+
+### In Real Life Social Connect
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133695/24_xaa9tu.png" alt="In Real Life Social Connect" style="width:auto;height:256px;border-radius:16px;">
+
+**Darwin’s home for authentic matchmaking, confidence, communication and dating coaching & support, and community events.**
+
+<a href="https://www.inreallifesocialconnect.com/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Civiltech Solutions
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/22_defujv.png" alt="Civiltech Solutions" style="width:auto;height:256px;border-radius:16px;">
+
+**A civil engineering and project delivery consultancy dedicated to building long term sustainable roadways.**
+
+<a href="https://civiltechsolutions.com.au/home" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Dukes Cafe and Eatery
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133697/23_wcrnji.png" alt="Dukes Cafe and Eatery" style="width:auto;height:256px;border-radius:16px;">
+
+**A cornerstone of the Darwin community.**
+
+<a href="https://www.dukescafe.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Kindness Shake
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/53_jgyqzf.png" alt="Kindness Shake" style="width:auto;height:256px;border-radius:16px;">
+
+**A community and student-led initiative, launched during the outbreak of the COVID-19 pandemic. It supports and focuses on international students, migrants, refugees and temporary visa holders who are experiencing financial difficulties.**
+
+<a href="https://kindness-shake.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### Outback Engraver
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/OutbackEngraver_zuxokv.png" alt="Kindness Shake" style="width:auto;height:256px;border-radius:16px;">
+
+**A local Trusted Source for NT businesses looking to deliver the highest standards of professional laser branding and engraving to their clients.**
+
+<a href="https://outbackengraver.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
+
+### 101 NT
+
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/101NT_nfgjjw.png" alt="101 NT" style="width:auto;height:256px;border-radius:16px;">
+
+**A Darwin-based supplier and installer of premium roller doors and shutters, proudly serving Northern Territory homes and businesses.**
+
+<a href="https://101nt.com.au/" style="font-weight:bold;">👉 Click to visit</a>
+
+<hr style="border-style: dashed">
 
 ---
 
@@ -142,16 +215,25 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ## 📞 Contact Me
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: start; gap: 8px">
+  <div style="width: 180px; display: flex; align-items: center; justify-content: space-between; gap: 8px">
   <a href="mailto:sde.howard.mai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/gmail_d7qyhb.png" alt="gmail" style="width:auto;height:64px;">
+  </div>
+  <div style="width: 180px; display: flex; align-items: center; justify-content: space-between; gap: 8px">
   <a href="https://linkedin.com/in/howard-mai-61808625a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/linkedin_se7wou.png" alt="linkedin" style="width:auto;height:64px;">
+  </div>
+  <div style="width: 180px; display: flex; align-items: center; justify-content: space-between; gap: 8px">
   <a href="https://drive.google.com/file/d/1U4rk5L4R3UYYfWQ6KvwOtVSUA60as_-V/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
+  <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762135593/google-drive-resume_k860zb.png" alt="Kindness Shake" style="width:auto;height:64px;">
+  </div>
 </div>
 
 ---
