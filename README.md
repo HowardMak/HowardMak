@@ -94,7 +94,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ### Wangarr Creations | Full-Stack Web Application
 
-*Sep 2025 - Nov 2025*
+*Sep 2025 - Present*
 
 <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/78_zoso2u.png" alt="Wangarr Creations Website" style="width:auto;height:256px;border-radius:16px;">
 
@@ -106,7 +106,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ### Wangarr Creations App | Full-Stack Mobile Application
 
-*Apr 2025 - Sep 2025*
+*Apr 2025 - Present*
 
 <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133696/9_uojlj9.png" alt="Wangarr Creations App" style="width:auto;height:256px;border-radius:16px;">
 
@@ -120,7 +120,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ### Your Story My Story | Full-Stack Web Application
 
-*Jul 2025 - Aug 2025*
+*Jun 2025 - Aug 2025*
 
 <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/84_dw4lhl.png" alt="YSMS Logo" style="width:auto;height:256px;border-radius:16px;">
 
@@ -132,7 +132,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Mas
 
 ### Unique NT Gift Baskets | Shopify Web Application
 
-*Feb 2025 - Apr 2025*
+*Feb 2025 - Mar 2025*
 
 <img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/UniqueNTGiftBaskets_liyyzi.png" alt="YSMS Logo" style="width:auto;height:256px;border-radius:16px;">
 
