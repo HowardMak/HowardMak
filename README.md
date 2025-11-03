@@ -202,8 +202,6 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 <a href="https://101nt.com.au/" style="font-weight:bold;">👉 Click to visit</a>
 
-<hr style="border-style: dashed">
-
 ---
 
 ## 🎓 Education
