@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** and Master of Software Engineering. With extensive experience in both full-stack development and data analysis, I specialise in creating complete end-to-end solutions for e-commerce platforms, mobile applications, and data-driven business intelligence systems.
+I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduated as a Master of Software Engineering. With extensive experience in both full-stack development and data analysis, I specialise in creating complete end-to-end solutions for e-commerce platforms, mobile applications, and data-driven business intelligence systems.
 
 ### 🎯 What I Do
 
