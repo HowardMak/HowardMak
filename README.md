@@ -5,12 +5,13 @@
 <div align="center">
   <h1>Howard Mai</h1>
   <p>
-    <span style="display:inline-block; background-color:#1E3A8A; color:#fff; padding:4px 12px; border-radius:12px; margin-right:8px; font-size:0.95em;">
+    <strong>
       Full-Stack Engineer
-    </span>
-    <span style="display:inline-block; background-color:#1E3A8A; color:#fff; padding:4px 12px; border-radius:12px; font-size:0.95em;">
+    </strong>
+    •
+    <strong>
       Data Analyst
-    </span>
+    </strong>
   </p>
   <img src="https://komarev.com/ghpvc/?username=howardmai&label=Profile%20views&color=1e3a8a&style=flat" alt="howardmai" />
 </div>
