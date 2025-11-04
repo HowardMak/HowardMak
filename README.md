@@ -123,7 +123,7 @@ I'm Howard, a passionate **Full Stack Software Engineer & Data Analyst** graduat
 
 *Jun 2025 - Aug 2025*
 
-<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/v1762133694/84_dw4lhl.png" alt="YSMS Logo" style="width:80vw;height:auto;border-radius:16px;">
+<img src="https://res.cloudinary.com/dy7mqrj1e/image/upload/84_dw4lhl.png" alt="YSMS Logo" style="width:80vw;height:auto;border-radius:16px;">
 
 **An online story sharing and mental support platform for teenagers**
 
